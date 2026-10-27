@@ -1,0 +1,26 @@
+{
+  "name": "प्रवासी-बाल सेतु | Pravasi-Bal Setu",
+  "short_name": "BalSetu PWA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0A0E17",
+  "theme_color": "#10B981",
+  "description": "National Interstate Child Migration Welfare & Education Continuity Grid (Chhattisgarh ➔ Maharashtra & Central Zone)",
+  "categories": ["government", "education", "health", "social"],
+  "icons": [
+    {
+      "src": "src/assets/mobile_ui_mockup.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "src/assets/pravasi_passport_mockup.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
